@@ -1,6 +1,6 @@
 # Vita port
 
-This is a vita port.
+This is a vita port. I forked this so i can see if i can get audio working and hopefully other things (also learn a bit more of the VITA). Huge thnkas to XYZZ for creating this initially and the work he did for Hen.
 
 # Build deps
 
